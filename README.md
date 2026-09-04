@@ -22,7 +22,7 @@ Source-backed comparison tables for screening the physical and technical fit of 
 | -------------------------------------- | ---: | ------------------------------------------------------------------------------------------------------------------------- |
 | `walking-pad-comparison-data.csv`      |   19 | Outside and belt dimensions, speed, published load, machine weight, folding, controls, official sources, and caveats      |
 | `standing-desk-comparison-data.csv`    |    9 | Finished/frame height, desktop range, frame geometry, motors, published load labels, official sources, and related guides |
-| `portable-monitor-comparison-data.csv` |    8 | Display, inputs, power path, physical setup, touch, Mac/iPad notes, official sources, and related guides                  |
+| `portable-monitor-comparison-data.csv` |    9 | Display, inputs, power path, physical setup, touch, Mac/iPad notes, official sources, and related guides                  |
 
 ## Evidence and collection method
 
