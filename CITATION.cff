@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "WorkChoose Workspace Equipment Comparison Data"
+type: dataset
+authors:
+  - name: "WorkChoose Editorial Team"
+version: "2026-09"
+date-released: 2026-09-04
+url: "https://workchoose.com/data"
+repository-code: "https://github.com/zhxnix/workchoose-open-comparison-data"
+license: CC-BY-4.0
