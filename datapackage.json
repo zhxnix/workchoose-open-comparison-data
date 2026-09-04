@@ -1,0 +1,14 @@
+{
+  "profile": "tabular-data-package",
+  "name": "workchoose-workspace-equipment-comparison-data",
+  "title": "WorkChoose Workspace Equipment Comparison Data",
+  "description": "Source-backed product-fit comparison data for walking pads, standing desks, and portable monitors.",
+  "homepage": "https://workchoose.com/data",
+  "version": "2026-09",
+  "licenses": [{"name": "CC-BY-4.0", "path": "https://creativecommons.org/licenses/by/4.0/", "title": "Creative Commons Attribution 4.0"}],
+  "resources": [
+    {"name": "walking-pad-comparison-data", "path": "walking-pad-comparison-data.csv", "profile": "tabular-data-resource", "format": "csv", "mediatype": "text/csv"},
+    {"name": "standing-desk-comparison-data", "path": "standing-desk-comparison-data.csv", "profile": "tabular-data-resource", "format": "csv", "mediatype": "text/csv"},
+    {"name": "portable-monitor-comparison-data", "path": "portable-monitor-comparison-data.csv", "profile": "tabular-data-resource", "format": "csv", "mediatype": "text/csv"}
+  ]
+}
