@@ -1,0 +1,40 @@
+WorkChoose comparison data — CC BY 4.0
+
+License
+-------
+The WorkChoose database structure, field organization, row selection, and
+file layout in the downloadable comparison files are licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0):
+
+https://creativecommons.org/licenses/by/4.0/
+
+You may copy, redistribute, remix, transform, and build upon those WorkChoose
+contributions, including for commercial purposes, provided that you give
+appropriate credit, link to the license, and indicate if changes were made.
+
+Suggested attribution
+---------------------
+WorkChoose, "[dataset name]" ([exact row or version]), reviewed September 3,
+2026, https://workchoose.com/data, licensed under CC BY 4.0.
+
+Scope and third-party material
+------------------------------
+This notice covers only the WorkChoose contributions described above. WorkChoose
+does not claim ownership of, and this license does not grant rights to:
+
+* Manufacturer names, trademarks, logos, or other brand assets.
+* Manufacturer-original facts, manuals, support text, or other linked source
+  content, which remain third-party material and should be checked against the
+  official source.
+* Product photographs, logos used in source pages, or other images. A field such
+  as image_slug is only a data reference; it does not license an image.
+
+The CSVs are specification-backed snapshots, not hands-on test results. They do
+not promise current prices, stock, availability, compatibility, safety,
+durability, noise, or delivered dimensions. A blank or "Unknown" field means
+the cited material did not establish a reliable value; do not treat it as a
+pass or fill it with an estimate. Verify the exact model, region, variant,
+manual, and current manufacturer source before relying on a row.
+
+No automatic update schedule is promised. Source pages, products, policies, and
+regional listings can change after the snapshot was reviewed.
