@@ -55,4 +55,13 @@ The structured comparison data and original field organization are available und
 - [Walking-pad desk-height calculator](https://workchoose.com/walking-pad-desk-height-clearance)
 - [Portable-monitor connection checker](https://workchoose.com/portable-monitor-connection-checker)
 
+## Free embeddable tools
+
+Publishers can add either calculator to a relevant article with one script tag
+or a plain iframe. The widgets are free, require no login, use isolated styles,
+and do not save a visitor's measurements.
+
+- [Embed the walking-pad desk-fit calculator](https://workchoose.com/embed-desk-fit-calculator)
+- [Embed the portable-monitor connection checker](https://workchoose.com/embed-portable-monitor-checker)
+
 Corrections and dataset-use questions: [contact WorkChoose](https://workchoose.com/contact).
