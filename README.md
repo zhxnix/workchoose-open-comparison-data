@@ -55,6 +55,15 @@ The structured comparison data and original field organization are available und
 - [Walking-pad desk-height calculator](https://workchoose.com/walking-pad-desk-height-clearance)
 - [Portable-monitor connection checker](https://workchoose.com/portable-monitor-connection-checker)
 
+## Arzopa portable-monitor buyer guides
+
+The portable-monitor dataset now includes five current Arzopa models with direct manufacturer evidence. These independent decision pages explain the tradeoffs without claiming hands-on testing:
+
+- [Best Arzopa portable monitor: five models compared](https://workchoose.com/best-arzopa-portable-monitor)
+- [Arzopa Z3FC vs Z1RC: gaming or 16:10 work](https://workchoose.com/arzopa-z3fc-vs-z1rc)
+- [Arzopa Z3FC review](https://workchoose.com/arzopa-z3fc-review)
+- [Arzopa Z1RC review](https://workchoose.com/arzopa-z1rc-review)
+
 ## Free embeddable tools
 
 Publishers can add either calculator to a relevant article with one script tag
