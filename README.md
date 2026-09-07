@@ -62,6 +62,8 @@ The portable-monitor dataset now includes five current Arzopa models with direct
 - [Best Arzopa portable monitor: five models compared](https://workchoose.com/best-arzopa-portable-monitor)
 - [Arzopa Z3FC vs Z1RC: gaming or 16:10 work](https://workchoose.com/arzopa-z3fc-vs-z1rc)
 - [Arzopa Z1C vs Z3FC: FHD 60Hz or QHD 180Hz](https://workchoose.com/arzopa-z1c-vs-z3fc)
+- [Arzopa Z1RC vs Z1FC for Mac mini M4: 2.5K or 144Hz](https://workchoose.com/arzopa-z1rc-vs-z1fc-for-mac-mini-m4)
+- [Arzopa Z1FC vs Z3FC for ROG Ally X: FHD 144Hz or QHD 180Hz](https://workchoose.com/arzopa-z1fc-vs-z3fc-for-rog-ally-x)
 - [Arzopa Z3FC review](https://workchoose.com/arzopa-z3fc-review)
 - [Arzopa Z1RC review](https://workchoose.com/arzopa-z1rc-review)
 
